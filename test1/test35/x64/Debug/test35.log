@@ -1,0 +1,16 @@
+﻿  수업용.c
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(7,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(7,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(8,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(8,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(9,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(9,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(10,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(10,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(11,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(11,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(14,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char (*)[5]'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(14,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char (*)[5]' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(14,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test35\수업용.c(14,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+  test35.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\x64\Debug\test35.exe
