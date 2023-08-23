@@ -1,0 +1,6 @@
+﻿  test50.cpp
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test50\test50.cpp(5,14): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test50\test50.cpp(6,14): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test50\test50.cpp(11,9): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test50\test50.cpp(12,9): warning C4309: '=': 상수 값이 잘립니다.
+  test50.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\x64\Debug\test50.exe

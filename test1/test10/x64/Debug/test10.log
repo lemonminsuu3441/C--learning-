@@ -1,4 +1,4 @@
-﻿  수업용.cpp
-C:\Users\minsu\OneDrive\바탕 화면\수업용\test1\test10\수업용.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
-C:\Users\minsu\OneDrive\바탕 화면\수업용\test1\test10\수업용.cpp(8,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
-  test10.vcxproj -> C:\Users\minsu\OneDrive\바탕 화면\수업용\test1\x64\Debug\test10.exe
+﻿  test10.cpp
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test10\test10.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test10\test10.cpp(8,9): warning C4313: 'printf': 서식 문자열의 '%x'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  test10.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\x64\Debug\test10.exe

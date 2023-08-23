@@ -1,0 +1,3 @@
+﻿  test63.cpp
+C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\test63\test63.cpp(5,21): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  test63.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\C--learning-\test1\x64\Debug\test63.exe
